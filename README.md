@@ -1,2 +1,2 @@
-# https:guinakamurac.io
+# https://guinakamurac.io
 avaliacao-IW
