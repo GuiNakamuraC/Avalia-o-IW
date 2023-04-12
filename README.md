@@ -1,2 +1,2 @@
-# https://guinakamurac.github.io/Avaliacao-IW
+# https://github.com/GuiNakamuraC/Avaliacao-IW.git
 avaliacao-IW
