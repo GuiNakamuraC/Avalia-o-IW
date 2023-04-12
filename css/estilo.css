@@ -1,0 +1,23 @@
+body{
+    background-color: gold;
+}
+header{
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+}
+.banner{
+    width: 100%;
+}
+.container{
+    width: 80%;
+    background-color: cornflowerblue;
+    margin: auto;
+}
+footer{
+    background-color: cornflowerblue;
+}
+.motivos{
+    position: center;
+}
